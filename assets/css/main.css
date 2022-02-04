@@ -1,0 +1,10 @@
+.navbar-nav{
+  padding-right: 10%;
+}
+
+@media (min-width: 992px){
+    .navbar a {
+        margin-left : 3em;
+        margin-right : 3em;
+    }
+}
