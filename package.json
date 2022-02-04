@@ -1,0 +1,20 @@
+{
+  "name": "web-systems",
+  "version": "1.0.0",
+  "description": "web systems",
+  "main": "startServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node startServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallumWingfield/WebSystems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallumWingfield/WebSystems/issues"
+  },
+  "homepage": "https://github.com/CallumWingfield/WebSystems#readme"
+}
